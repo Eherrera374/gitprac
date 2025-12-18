@@ -8,5 +8,6 @@ After data exploration and description some light cleaning/filling was done to t
 
 ## The first barplot shows us tht coffee coupons were the most numerous of all types.
 
+
 ## Next a histogram shows us the temperature distrubition of all occurrances within the dataset
 
